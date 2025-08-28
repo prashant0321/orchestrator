@@ -74,3 +74,7 @@ Configure application settings via `settings.py`.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Contact
+
+Prashant Khandelwal- [projectlink](https://github.com/prashant0321/orchestrator) - prashantkhandelwal001@.com
